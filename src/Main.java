@@ -55,6 +55,10 @@ public class Main {
 	              len++; 
 	              
 	            } else {
+	            
+	            	
+	            	
+	            	
 	              // 입력자가 박하진이 아닌 다른 사람일 경우
 	              System.out.println("당신은 '박하진'의 마니또입니다. ");
 	              System.out.println(""); 
